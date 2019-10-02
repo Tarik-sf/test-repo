@@ -4,4 +4,5 @@ This is a test file that I need to show what happens when updating a file locall
 
 I am curious what will happen........
 
-Adding some additional text
+adding some additional text to create a merge conflict
+
